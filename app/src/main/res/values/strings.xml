@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pokedex</string>
+    <string name="pokemon">POKEMON</string>
+    <string name="check_your_connection_please">Check your connection, please!</string>
+    <string name="charmander">charmander...</string>
+    <string name="search">search</string>
 </resources>
